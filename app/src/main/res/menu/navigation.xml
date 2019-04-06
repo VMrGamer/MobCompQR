@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_history"
+        android:icon="@drawable/ic_history_black_24dp"
+        android:title="HISTORY" />
+
+    <item
+        android:id="@+id/navigation_operation"
+        android:icon="@drawable/ic_fullscreen_black_24dp"
+        android:title="OPERATION" />
+
+    <item
+        android:id="@+id/navigation_logout"
+        android:icon="@drawable/ic_power_settings_new_black_24dp"
+        android:title="LOGOUT" />
+
+</menu>
